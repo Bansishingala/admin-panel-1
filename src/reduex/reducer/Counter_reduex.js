@@ -1,7 +1,7 @@
 import * as  ActionType from "../ActionType";
 
 const initval = {
-    counter :0
+    counter : 0
 } 
 
 export const counterReduex = (state = initval ,action) => {
